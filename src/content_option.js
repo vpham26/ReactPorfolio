@@ -7,7 +7,7 @@ import cuisine from "./assets/images/cuisine.png"
 const logotext = "KP";
 const meta = {
     title: "Kevin Pham",
-    description: "I’m Kevin _ Full stack devloper, currently seeking job",
+    description: "I’m Kevin _ Full stack developer, currently seeking job",
 };
 
 const introdata = {

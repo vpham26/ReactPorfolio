@@ -16,10 +16,11 @@
 </p>
 
 ## Table of Contents
+
 - [Description](#description)
+- [Deployed Application](#deployed-application)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Available Scripts](#available-scripts)
 - [Learn More](#learn-more)
@@ -27,15 +28,21 @@
 - [Questions](#questions)
 
 ## Description
-
-🔍 
+</br>
   
 💻 Below is a video of the application:
   
 ![pwa-budget-tracker](./src/assets/images/demo.gif)
+</br></br></br>
+## Deployed Application
+</br>
+
+🔍 Deploywed with [Heroku](https://k-react-porfolio.herokuapp.com/)
+
+</br>
 
 ## User Story
-
+</br>
 ```
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
@@ -43,7 +50,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 ```
 
 ## Acceptance Criteria
-
+</br>
 ```
 GIVEN a single-page application portfolio for a web developer
 WHEN I load the portfolio

@@ -131,8 +131,8 @@ const contactConfig = {
     head: "Need Collaborator? Junior Developer? ",
     description: "Drop a message.",
     YOUR_SERVICE_ID: "service_ocsp1mw",
-    YOUR_TEMPLATE_ID: "ttemplate_rqbf12s",
-    YOUR_USER_ID: "user_VszU8Y7l1n73rXPPM",
+    YOUR_TEMPLATE_ID: "template_rqbf12s",
+    YOUR_USER_ID: "VszU8Y7l1n73rXPPM",
 };
 
 const socialprofils = {

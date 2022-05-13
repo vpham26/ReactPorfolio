@@ -1,4 +1,4 @@
-<h1 align="center"> Progressive Web Applications (PWA): Budget Tracker </h1>
+<h1 align="center"> React Application: Porfolio </h1>
   
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/vpham26/ReactPorfolio" />

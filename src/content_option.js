@@ -28,6 +28,7 @@ const dataabout = {
     title: "Recently came into the Matrix",
     aboutme: "Learned many new { skills } to fight against the machines.",
 };
+
 const worktimeline = [{
     jobtitle: "Badminton Amateur Athlete / Coach",
     where: "Orlando, FL, USA",

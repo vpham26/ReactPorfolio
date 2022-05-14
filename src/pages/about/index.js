@@ -7,9 +7,10 @@ import {
   meta,
   worktimeline,
   skills,
- // services,
+  // services,
 } from "../../content_option";
 import IMG from "../../assets/images/Pic.jpg";
+import PDF from "../../assets/Kevin.pdf";
 
 export default function About() {
   return (
@@ -18,21 +19,20 @@ export default function About() {
         <Helmet>
           <meta charSet="utf-8" />
           <title> About | {meta.title}</title>
-          <meta
-            name="description"
-            content={meta.description}
-          />
+          <meta name="description" content={meta.description} />
         </Helmet>
         <Row className="mb-5 mt-3">
           <Col lg="8">
             <h1 className="display-4 mb-4">About Me</h1>
             <hr className="t_border my-4 ml-0 text-left" />
-            <img src={ IMG } />
+            <img src={IMG} />
           </Col>
         </Row>
         <Row className="sec_sp">
           <Col lg="5">
             <h3 className="color_sec py-4">{dataabout.title}</h3>
+            <a href={ PDF } download="kevinResume" target="_blank" rel="noreferrer"> Resume Download</a>
+
           </Col>
           <Col lg="7" className="d-flex align-items-center">
             <div>

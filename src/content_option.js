@@ -2,6 +2,9 @@ import notetaker from "./assets/images/notetaker.png"
 import pwa from "./assets/images/pwa.png"
 import shasha from "./assets/images/shasha.PNG"
 import cuisine from "./assets/images/cuisine.png"
+import techblog from "./assets/images/techblog.PNG"
+import weatherapi from "./assets/images/weatherapi.png"
+
 
 
 const logotext = "KP";
@@ -35,11 +38,11 @@ const worktimeline = [{
     where: "Yuseung-Gu, Daejeon, South Korea",
     date: "2017-2020",
 },
-    {
-        jobtitle: "Home Remodeling",
-        where: "Philadelphia, PA, USA",
-        date: "2020-2021",
-    },
+{
+    jobtitle: "Home Remodeling",
+    where: "Philadelphia, PA, USA",
+    date: "2020-2021",
+},
 ];
 
 const skills = [{
@@ -101,11 +104,27 @@ const dataportfolio = [
     },
     {
         img: notetaker,
-        heading: "Student Task Submission Portal",
+        heading: "ExpressJS Note Taker",
         desctiption: "A portal write down note built using JavaScript, NodeJs, HTML, CSS, and Express.",
         link1: "https://express-js-notetaker42.herokuapp.com/",
         link2: "https://github.com/vpham26/Express.JS.NoteTAKER/blob/main/README.md",
-        link3: "https://github.com/Taufiq4045/student-task-server.git"
+        link3: "https://github.com/"
+    },
+    {
+        img: weatherapi,
+        heading: "Server Side Weather API",
+        desctiption: "A portal write down note built using JavaScript, HTML, CSS, and Weather API.",
+        link1: "https://vpham26.github.io/ServersideAPIsWeatherDB/",
+        link2: "https://github.com/vpham26/ServersideAPIsWeatherDB/blob/main/README.md",
+        link3: "https://github.com/vpham26/ServersideAPIsWeatherDB"
+    },
+    {
+        img: techblog,
+        heading: "",
+        desctiption: "A Tech Blog built using JavaScript, NodeJs, HTML, CSS, and Express, JawsDB.",
+        link1: "https://mvc-tech-blog21.herokuapp.com/",
+        link2: "https://github.com/vpham26/MVC-TechBlog/blob/main/README.md",
+        link3: "https://github.com/vpham26/MVC-TechBlog"
     },
     {
         img: pwa,

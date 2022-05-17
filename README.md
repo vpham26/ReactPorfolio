@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/languages/top/vpham26/ReactPorfolio"  />
     <img src="https://img.shields.io/github/issues/vpham26/ReactPorfolio" />
     <img src="https://img.shields.io/github/last-commit/vpham26/ReactPorfolio" >
-    <a href="https://github.com/jpd61"><img src="https://img.shields.io/github/followers/vpham26?style=social" target="_blank" /></a>
+    <a href="https://github.com/vpham26"><img src="https://img.shields.io/github/followers/vpham26?style=social" target="_blank" /></a>
 </p>
   
 <p align="center">

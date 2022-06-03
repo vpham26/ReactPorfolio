@@ -1,10 +1,10 @@
-<h1 align="center"> React Application: Porfolio </h1>
+<h1 align="center"> React Application: Portfolio </h1>
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/vpham26/ReactPorfolio" />
-    <img src="https://img.shields.io/github/languages/top/vpham26/ReactPorfolio"  />
-    <img src="https://img.shields.io/github/issues/vpham26/ReactPorfolio" />
-    <img src="https://img.shields.io/github/last-commit/vpham26/ReactPorfolio" >
+    <img src="https://img.shields.io/github/repo-size/vpham26/ReactPortfolio" />
+    <img src="https://img.shields.io/github/languages/top/vpham26/ReactPortfolio"  />
+    <img src="https://img.shields.io/github/issues/vpham26/ReactPortfolio" />
+    <img src="https://img.shields.io/github/last-commit/vpham26/ReactPortfolio" >
     <a href="https://github.com/vpham26"><img src="https://img.shields.io/github/followers/vpham26?style=social" target="_blank" /></a>
 </p>
   

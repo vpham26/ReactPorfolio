@@ -25,7 +25,7 @@ export default function About() {
           <Col lg="8">
             <h1 className="display-4 mb-4">About Me</h1>
             <hr className="t_border my-4 ml-0 text-left" />
-            <img src={IMG} />
+            <image src={IMG} />
           </Col>
         </Row>
         <Row className="sec_sp">

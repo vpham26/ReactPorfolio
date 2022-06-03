@@ -1,6 +1,9 @@
 import React from "react";
 import "./style.css";
-import { FaGithub, FaTwitter,FaFacebookF, FaLinkedin } from "react-icons/fa";
+// can add > FaTwitter,FaFacebookF,
+
+import { FaGithub, FaLinkedin } from "react-icons/fa";
+
 import { socialprofils } from "../../content_option";
 
 export default function Socialicons(params) {

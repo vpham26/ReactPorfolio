@@ -7,7 +7,7 @@ import {
   meta,
   worktimeline,
   skills,
-  // services,
+  services,
 } from "../../content_option";
 import IMG from "../../assets/images/Pic.jpg";
 import PDF from "../../assets/Kevin.pdf";
@@ -84,9 +84,9 @@ export default function About() {
             })}
           </Col>
         </Row>
-        {/* <Row className="sec_sp">
+        <Row className="sec_sp">
           <Col lang="5">
-            <h3 className="color_sec py-4">services</h3>
+            <h3 className="color_sec py-4">Services</h3>
           </Col>
           <Col lg="7">
             {services.map((data, i) => {
@@ -98,7 +98,7 @@ export default function About() {
               );
             })}
           </Col>
-        </Row> */}
+        </Row>
       </Container>
     </HelmetProvider>
   );

@@ -4,7 +4,8 @@ import shasha from "./assets/images/shasha.PNG"
 import cuisine from "./assets/images/cuisine.png"
 import techblog from "./assets/images/techblog.PNG"
 import weatherapi from "./assets/images/weatherapi.png"
-
+import plume from "./assets/images/plume.PNG"
+import mernBook from "./assets/images/mernBook.PNG"
 
 
 const logotext = "KP";
@@ -30,78 +31,86 @@ const dataabout = {
 };
 
 const worktimeline = [{
-    jobtitle: "Badminton Amateur Athlete / Coach",
-    where: "Orlando, FL, USA",
-    date: "2012-Present",
+    jobtitle: "Lotus Acpuncture, Office Manager",
+    where: "Orlando, Florida, United States",
+    date: "2012-2016",
 },
 {
-    jobtitle: "English Second Language Teacher",
+    jobtitle: "Chung Dahm Academy, English Teacher",
     where: "Yuseung-Gu, Daejeon, South Korea",
     date: "2017-2020",
 },
 {
-    jobtitle: "Home Remodeling",
-    where: "Philadelphia, PA, USA",
-    date: "2020-2021",
+    jobtitle: "GPCCert, Information Specialist",
+    where: "Winter Park, Florida, United States",
+    date: "2021-Present",
 },
 ];
 
 const skills = [{
-        name: "Javascript",
+        name: "JavaScript",
         value: 85,
     },
     {
-        name: "NodeJs",
+        name: "Express/NodeJS",
         value: 80,
     },
     {
-        name: "React",
-        value: 70,
+        name: "ReactJS",
+        value: 85,
     },
     {
-        name: "MongoDB & MySql",
+        name: "MongoDB/NoSQL/MySQL",
         value: 75,
     },
     {
-        name: "Bootstrap",
+        name: "Bootstrap/Bulma/Tailwind",
         value: 70,
     },
     {
-        name: "HTML",
+        name: "HTML/CSS",
         value: 80,
     },
     {
-        name: "CSS",
+        name: "GitBash",
         value: 75,
     },
     {
         name: "GitHub",
-        value: 75,
+        value: 85,
     },
 ];
 
 const services = [{
-        title: "",
-        description: "",
+        title: "Front End Development",
+        description: "HTML, CSS, SaSS, Style Libraries: BootStrap, Bulma, etc.",
     },
     {
-        title: "",
-        description: "",
+        title: "Back End Development",
+        description: "JavaScript, MongoDB, GraphQL, Apollo-Server, Express",
     },
     {
-        title: "",
-        description: "",
+        title: "Full Stack Development",
+        description: "Build functional website",
     },
 ];
 
 const dataportfolio = [
     {
+        img: plume,
+        heading: "Plume - Pharmaceutical CBD ECommerce",
+        desctiption: "Find the right store to purchase CBD oils and related items SPA Ecommerce website done with JavaScript, MongoDB, Express, Bcrypt, ApolloServer, GraphQL, Css, SaSS and HTML",
+        link1: "https://github.com/vpham26/Plume_App",
+        link2: "https://github.com/vpham26/Plume_App/tree/main/client",
+        link3: "https://github.com/vpham26/Plume_App/tree/main/server"
+    },
+    {
         img: cuisine,
         heading: "Cross Country Cuisine",
         desctiption: "Find great restaurants all across the county with this interactive restaurant search engine done with JavaScript, Bulma, CSS and HTML",
-        link1: "https://dai2119555.github.io/CrossCountryCusine/",
-        link2: "https://github.com/dai2119555/CrossCountryCusine/blob/main/README.md",
-        link3: "https://github.com/dai2119555/CrossCountryCusine/tree/main/assets"
+        link1: "https://github.com/vpham26/CrossCountryCusine",
+        link2: "https://github.com/vpham26/CrossCountryCusine/blob/main/README.md",
+        link3: "https://github.com/vpham26/CrossCountryCusine/tree/main/assets"
     },
     {
         img: notetaker,
@@ -118,6 +127,14 @@ const dataportfolio = [
         link1: "https://vpham26.github.io/ServersideAPIsWeatherDB/",
         link2: "https://github.com/vpham26/ServersideAPIsWeatherDB/blob/main/README.md",
         link3: "https://github.com/vpham26/ServersideAPIsWeatherDB"
+    },
+    {
+        img: mernBook,
+        heading: "MERN - Book Search Engine",
+        desctiption: "Find the right book to read, a book search engine that come with a description website done with JavaScript, , CSS and HTML",
+        link1: "https://github.com/vpham26/MERN-BookSearchEngine",
+        link2: "https://github.com/vpham26/MERN-BookSearchEngine#readme",
+        link3: "https://github.com/vpham26/MERN-BookSearchEngine/tree/main/client"
     },
     {
         img: techblog,
@@ -140,15 +157,15 @@ const dataportfolio = [
         heading: "Self-Help Chat-Bot",
         desctiption: "A mental-help app built with NodeJS, MySQL, JavaScript, Express, Sequelize, Node-NLP, and Handlebars.",
         link1: "https://shielded-bayou-08776.herokuapp.com/",
-        link2: "https://github.com/Johnnyboy7781/shasha/blob/main/README.md",
-        link3: "https://github.com/Johnnyboy7781/shasha"
+        link2: "https://github.com/vpham26/shasha-1/tree/main/public",
+        link3: "https://github.com/vpham26/shasha-1"
     },
 ];
 
 const contactConfig = {
     YOUR_EMAIL: "vulong.pham26@gmail.com",
     YOUR_FONE: "(321)948-5737",
-    head: "Need Collaborator? Junior Developer? ",
+    head: "Need Collaborator? Junior Web Developer? ",
     description: "Drop a message.",
     YOUR_SERVICE_ID: "service_ocsp1mw",
     YOUR_TEMPLATE_ID: "template_rqbf12s",
